@@ -34,4 +34,4 @@ The raw dataset was initially imported from an Excel file into Power BI. Extensi
 These transformations ensured that the data was clean, structured, and optimized for effective analysis and visualization.
 
 ## Dashboard
-![Super_Store_Sales_Dashboard](
+![Super_Store_Sales_Dashboard](https://github.com/seymurabdullayev/Super-Store-Sales-Dashboard/blob/04cbfe3b36d745acdee304d9ef5d6ff98ddcd99e/Super_Store_Sales_Dashboard.png)
