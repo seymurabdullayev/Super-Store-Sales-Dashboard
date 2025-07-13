@@ -32,3 +32,6 @@ The raw dataset was initially imported from an Excel file into Power BI. Extensi
   - Month Names (e.g., January, February)
 
 These transformations ensured that the data was clean, structured, and optimized for effective analysis and visualization.
+
+## Dashboard
+![Super_Store_Sales_Dashboard](
